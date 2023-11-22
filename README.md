@@ -4,5 +4,5 @@ This repository will contain code for:<br>
 Preprocessing and Cifitify<br>
 Between- and within-network FC based on correlation between different brain regions<br>
 Seed-based FC from distinct regions<br>
-network-based statistic (NBS)
-graph theoretical measures<br>
+Network-based statistic (NBS)<br>
+Graph theoretical measures<br>
